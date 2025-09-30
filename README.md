@@ -11,7 +11,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h1 align="center">Hello there 👋, I'm Fabian</h1>
+<h1 align="center">Hello there 👋, I'm Fable</h1>
 <h3 align="center">A passionate fullstack dev from France</h3>
 
 - 🔭 I’m currently working on **learning code**
